@@ -2,3 +2,5 @@ __pycache__
 tsru\__pycache__
 tsru\printing\__pycache__
 test.py
+tsru.egg-info
+dist
