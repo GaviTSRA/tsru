@@ -27,11 +27,11 @@ A python library for doing various miscellaneous things
 
     >/ Running message  
     >\ Running message  
-    >\- Running message
+    >\- Running message  
     >/ Running message  
     >Done msg Running message  
     >/ Running message  
     >\ Running message  
-    >\- Running message
+    >\- Running message  
     >/ Running message  
     >Failed msg Running message
