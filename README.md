@@ -1,6 +1,7 @@
 # TSRU (TSR Utils)
 
 A python library for doing various miscellaneous things
+<https://pypi.org/project/tsru/>
 
 ## Features
 
